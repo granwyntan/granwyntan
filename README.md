@@ -13,11 +13,11 @@ Student, Astronomer, Designer, Coder
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
-## About Me
-[Website](https://granwyntan.wixsite.com/aboutme)
-[Instagram](https://www.instagram.com/granwyntan)
-[Twitter](https://twitter.com/GranwynTan)
-[Facebook](https://www.facebook.com/GranwynTan)
+## Find me on...
+- [Website](https://granwyntan.wixsite.com/aboutme)
+- [Instagram](https://www.instagram.com/granwyntan)
+- [Twitter](https://twitter.com/GranwynTan)
+- [Facebook](https://www.facebook.com/GranwynTan)
 
 <!--
 **granwyntan/granwyntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
