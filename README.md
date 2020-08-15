@@ -16,7 +16,7 @@ Student, Astronomer, Designer, Coder
 ## Find me on...
 - [Website](https://granwyntan.wixsite.com/aboutme)
 - [Instagram](https://www.instagram.com/granwyntan)
-- [Twitter](https://twitter.com/GranwynTan)
+- [Twitter](https://www.twitter.com/GranwynTan)
 - [Facebook](https://www.facebook.com/GranwynTan)
 
 <!--
