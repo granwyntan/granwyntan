@@ -1,4 +1,17 @@
-### Hi there 👋
+# Granwyn Tan
+Student, Astronomer, Designer, Coder
+
+## Programming Languages
+- Python
+- Swift
+- JavaScript, CSS and HTML
+- Dart
+- Java
+- more...
+
+## Statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan&layout=compact)
 
 <!--
 **granwyntan/granwyntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
