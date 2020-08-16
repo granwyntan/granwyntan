@@ -11,7 +11,7 @@
 
 ## Statistics
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
-### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan&layout=compact)
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 ## Find me on...
 - [Website](https://granwyntan.wixsite.com/aboutme)
