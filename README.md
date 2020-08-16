@@ -1,5 +1,5 @@
 # Granwyn Tan
-Hi There :wave: Student, Astronomer, Designer, Coder
+Hi There 👋, I'm a... Student, Astronomer, Designer, Coder
 
 ## Programming Languages
 - Python
