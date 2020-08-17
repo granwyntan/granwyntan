@@ -6,7 +6,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/granwyntan/granwyntan)]()
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/y/granwyntan/granwyntan)]()
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)]()
 
 ## Programming Languages
 - Python
