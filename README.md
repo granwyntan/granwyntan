@@ -35,7 +35,7 @@
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 
-## Other stuff
+## About Me
 - 🔭 I’m currently working on [Viraze](https://github.com/granwyntan/Viraze)
 - 🌱 I’m currently learning **Kotlin** <img align="center" alt="Kotlin" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 - 👯 I’m looking to collaborate on **App or Game Development Projects**
@@ -45,7 +45,7 @@
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I'm a Singaporean student at the School of Science and Technology, Singapore :singapore:
 
-## Find me on...
+## Find Me On
 - [Website](https://granwyntan.wixsite.com/aboutme)
 - [Instagram](https://www.instagram.com/granwyntan)
 - [Twitter](https://www.twitter.com/GranwynTan)
