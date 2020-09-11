@@ -15,7 +15,7 @@
 - Dart <img align="center" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 - Java <img align="center" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 - Go <img align="center" alt="Go" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-- more... <img align="center" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /> <img align="center" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> <img align="center" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+- more... <img align="center" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> <img align="center" alt="Atom" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 
 ## Tools
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -33,6 +33,17 @@
 ## Statistics
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=dark&include_all_commits=true&icon_color=ffffff)
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
+
+
+## Other stuff
+- 🔭 I’m currently working on [Viraze](https://github.com/granwyntan/Viraze)
+- 🌱 I’m currently learning **Kotlin** <img align="center" alt="Kotlin" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+- 👯 I’m looking to collaborate on **App or Game Development Projects**
+- 🤔 I’m looking for help with **Mastering JavaScript, HTML and CSS to build a website entirely with it**
+- 💬 Ask me about **Technology**, **Programming**, **App Development**
+- 📫 How to reach me: [Here](#find-me-on)
+- 😄 Pronouns: He, Him, His
+- ⚡ Fun fact: I'm a Singaporean student at the School of Science and Technology, Singapore :singapore:
 
 ## Find me on...
 - [Website](https://granwyntan.wixsite.com/aboutme)
