@@ -50,6 +50,7 @@
 - [Instagram](https://www.instagram.com/granwyntan)
 - [Twitter](https://www.twitter.com/GranwynTan)
 - [Facebook](https://www.facebook.com/GranwynTan)
+- [LinkedIn](https://www.linkedin.com/in/granwyntan/)
 
 <!--
 **granwyntan/granwyntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
