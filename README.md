@@ -43,7 +43,7 @@
 - 💬 Ask me about **Technology**, **Programming**, **App Development**
 - 📫 How to reach me: [Here](#find-me-on)
 - 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: I'm a Singaporean student at the School of Science and Technology, Singapore :singapore:
+- ⚡ Fun fact: I'm a Singaporean student currently studying at the School of Science and Technology, Singapore :singapore:
 
 ## Find Me On
 - [Website](https://granwyntan.wixsite.com/aboutme)
