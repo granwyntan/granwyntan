@@ -44,7 +44,7 @@
   - **C++** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
   - **C#** <img align="center" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
 - 👯 I’m looking to collaborate on **App or Game Development Projects**
-- 🤔 I’m looking for help with **Mastering JavaScript, HTML and CSS to build a website entirely with it**
+- 🤔 I’m looking for help with Mastering **JavaScript**, **HTML** and **CSS** to build a website entirely with it
 - 💬 Ask me about **Technology**, **Programming**, **App Development**
 - 📫 How to reach me: [Here](#find-me-on)
 - 😄 Pronouns: He, Him, His
