@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/granwyntan/granwyntan)
-![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/granwyntan/granwyntan?style=flat?foo=bar)
+![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/y/granwyntan/granwyntan?style=flat)
 ![No Maintenance Intended](http://unmaintained.tech/badge.svg)
 
 ## Programming Languages
