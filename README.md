@@ -35,9 +35,9 @@
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 ## Projects 
-| [Viraze](https://github.com/granwyntan/Viraze) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) | [Scissors Paper Stone](https://github.com/granwyntan/Scissors-Paper-Stone) | [Number Guessing](https://github.com/granwyntan/Number-Guessing) |
-| :-: | :-: | :-: | :-: |
-| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface | This **Matrix Calculator** not only allows you to add, subtract, multiply and inverse matrices, but also gives you personalisation options | The traditional **Scissors Paper Stone** game, but through the command line | **Number Guessing** game in multiple programming languages, for fun |
+| [Viraze](https://github.com/granwyntan/Viraze) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) | [Scissors Paper Stone](https://github.com/granwyntan/Scissors-Paper-Stone) | [Number Guessing](https://github.com/granwyntan/Number-Guessing) | [World Time](https://github.com/granwyntan/World-Time) | [Shopping List](https://github.com/granwyntan/Shopping-List) | [Word Pair Generator] | 
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | This **Matrix Calculator** not only allows you to add, subtract, multiply and inverse matrices, but also gives you personalisation options (Python) | The traditional **Scissors Paper Stone** game, but through the command line | **Number Guessing** game in multiple programming languages, for fun | **World Time** app in Dart (Flutter) | **Shopping List** app in React Native (JavaScript) | Generate infinite, unique **Word Pairs** in Dart (Flutter)
 
 ## About Me
 <!-- - 🔭 I’m currently working on **Reserva (Flutter)** -->
