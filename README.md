@@ -34,16 +34,20 @@
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=light&include_all_commits=true)
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
+## Projects 
+| [Viraze](https://github.com/granwyntan/Viraze) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) | [Scissors Paper Stone](https://github.com/granwyntan/Scissors-Paper-Stone) | [Number Guessing](https://github.com/granwyntan/Number-Guessing) |
+| :-: | :-: | :-: | :-: |
+| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface | This **Matrix Calculator** not only allows you to add, subtract, multiply and inverse matrices, but also gives you personalisation options | The traditional **Scissors Paper Stone** game, but through the command line | **Number Guessing** game in multiple programming languages, for fun |
 
 ## About Me
-- 🔭 I’m currently working on **Reserva (Flutter)**
+<!-- - 🔭 I’m currently working on **Reserva (Flutter)** -->
 - 🌱 I’m currently learning:
   - **Kotlin** <img align="center" alt="Kotlin" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
   - **Rust** <img align="center" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
   - **C** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
   - **C++** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
   - **C#** <img align="center" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-- 👯 I’m looking to collaborate on **App or Game Development Projects**
+- 👯 I’m looking to collaborate on **Website, App or Game Development Projects**
 - 🤔 I’m looking for help with Mastering **JavaScript**, **HTML** and **CSS** to build a website entirely with it
 - 💬 Ask me about **Technology**, **Programming**, **App Development**
 - 📫 How to reach me: [Here](#find-me-on)
