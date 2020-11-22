@@ -55,7 +55,7 @@
 - ⚡ Fun fact: I'm a Singaporean student currently studying at the School of Science and Technology, Singapore :singapore:
 
 ## Find Me On
-- [Website](https://granwyntan.wixsite.com/aboutme)
+- [Website](https://granwyntan.wixsite.com/granwyntan)
 - [Instagram](https://www.instagram.com/granwyntan)
 - [Twitter](https://www.twitter.com/GranwynTan)
 - [Facebook](https://www.facebook.com/GranwynTan)
