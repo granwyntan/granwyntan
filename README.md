@@ -61,7 +61,7 @@
 - [Facebook](https://www.facebook.com/GranwynTan)
 - [LinkedIn](https://www.linkedin.com/in/granwyntan/)
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=granwyntan&repo=granwyntan&label="VISITORS"&labelColor=%23FFFFFF&countColor=%2377D77)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=granwyntan&repo=granwyntan&countColor=%2377DD77)
 
 <!--
 **granwyntan/granwyntan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
