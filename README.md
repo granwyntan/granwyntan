@@ -1,8 +1,6 @@
 # Granwyn Tan
 #### Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
-<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/he/him/his?gradient=green%20and%20blue" width="256" height="64" alt="My pronouns are he/him/his">
-</a>
+ <img src="https://pronouns.vercel.app/he/him/his?gradient=green%20and%20blue" width="256" height="64" alt="My pronouns are he/him/his">
 
 ![GitHub followers](https://img.shields.io/github/followers/granwyntan?style=flat-square&label=Follow)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
