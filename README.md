@@ -39,9 +39,9 @@
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 ## Projects 
-| [Viraze](https://github.com/granwyntan/Viraze) | 
-| :-: | 
-| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) |
+| [Viraze](https://github.com/granwyntan/Viraze) | [Reserva](https://github.com/Pascal-Inc) | [Budget - Manage Your Finances and Savings](https://github.com/swiftaccelerator2020/Grp-3-Budgeting-App)
+| :-: | :-: | :-: |
+| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | **Reserva** is a Booking app that is currently in Development (Swift, Dart) | **Budget** is an app that helps you organise your monthly budget and allocate your spendings with the wishlist feature (Swift) |
 
 ## About Me
 <!-- - 🔭 I’m currently working on **Reserva (Flutter)** -->
