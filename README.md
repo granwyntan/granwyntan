@@ -1,5 +1,9 @@
 # Granwyn Tan
-#### Hi There 👋, I'm a... Student, Astronomer, Designer, Coder
+#### Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from :singapore:
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/he/him/his?gradient=green%20and%20blue" width="256" height="64" alt="My pronouns are he/him/his">
+</a>
+
 ![GitHub followers](https://img.shields.io/github/followers/granwyntan?style=flat-square&label=Follow)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
 [![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
@@ -35,9 +39,9 @@
 ### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 ## Projects 
-| [Viraze](https://github.com/granwyntan/Viraze) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) | [Scissors Paper Stone](https://github.com/granwyntan/Scissors-Paper-Stone) | [Number Guessing](https://github.com/granwyntan/Number-Guessing) | [World Time](https://github.com/granwyntan/World-Time) | [Shopping List](https://github.com/granwyntan/Shopping-List) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | This **Matrix Calculator** not only allows you to add, subtract, multiply and inverse matrices, but also gives you personalisation options (Python) | The traditional **Scissors Paper Stone** game, but through the command line | **Number Guessing** game in multiple programming languages, for fun | **World Time** app in Dart (Flutter) | **Shopping List** app in React Native (JavaScript)
+| [Viraze](https://github.com/granwyntan/Viraze) | 
+| :-: | 
+| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) |
 
 ## About Me
 <!-- - 🔭 I’m currently working on **Reserva (Flutter)** -->
@@ -47,12 +51,11 @@
   - **C** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
   - **C++** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
   - **C#** <img align="center" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-- 👯 I’m looking to collaborate on **Website, App or Game Development Projects**
+- :handshake: I’m looking to collaborate on **Website, App or Game Development Projects**
 - 🤔 I’m looking for help with Mastering **JavaScript**, **HTML** and **CSS** to build a website entirely with it
 - 💬 Ask me about **Technology**, **Programming**, **App Development**
 - 📫 How to reach me: [Here](#find-me-on)
-- 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: I'm a Singaporean student currently studying at the School of Science and Technology, Singapore :singapore:
+- ⚡ Fun fact: I have been coding for about 2 years now and I relish in writing every line
 
 ## Find Me On
 - [Website](https://granwyntan.wixsite.com/granwyntan)
