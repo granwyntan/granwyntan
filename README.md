@@ -4,10 +4,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
 [![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/granwyntan/granwyntan)
-![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/m/granwyntan/granwyntan?style=flat)
-![No Maintenance Intended](http://unmaintained.tech/badge.svg)
-
 # Granwyn Tan
 Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
 
