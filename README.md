@@ -1,4 +1,13 @@
 ![Granwyn Tan](https://socialify.git.ci/granwyntan/granwyntan/image?font=Raleway&language=1&owner=1&pattern=Brick%20Wall&theme=Light)
+
+![GitHub followers](https://img.shields.io/github/followers/granwyntan?style=flat-square&label=Follow)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
+[![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/granwyntan/granwyntan)
+![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/m/granwyntan/granwyntan?style=flat)
+![No Maintenance Intended](http://unmaintained.tech/badge.svg)
+
 # Granwyn Tan
 Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
 
@@ -18,14 +27,6 @@ Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :sin
 - :speech_balloon: Ask me about **Technology**, **Programming**, **App Development**
 - :mailbox: How to reach me: [Here](#find-me-on)
 - :laughing: Fun fact: I have been coding for about 2 years now and I relish in writing every line
-
-![GitHub followers](https://img.shields.io/github/followers/granwyntan?style=flat-square&label=Follow)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
-[![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/granwyntan/granwyntan)
-![GitHub commit activity the past week, 4 weeks](https://img.shields.io/github/commit-activity/m/granwyntan/granwyntan?style=flat)
-![No Maintenance Intended](http://unmaintained.tech/badge.svg)
 
 ## Programming Languages
 - Python <img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -49,14 +50,14 @@ Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :sin
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <br>
 
-## Statistics
-### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=light&include_all_commits=true)
-### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
-
 ## Projects 
 | [Viraze](https://github.com/granwyntan/Viraze) | [Reserva](https://github.com/Pascal-Inc) | [Budget - Manage Your Finances and Savings](https://github.com/swiftaccelerator2020/Grp-3-Budgeting-App) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) |
 | :-: | :-: | :-: | :-: |
 | **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | **Reserva** is a Booking app that is currently in Development (Swift, Dart) | **Budget** is an app that helps you organise your monthly budget and allocate your spendings with the wishlist feature (Swift) | **Matrix Calculator** is a calculator to add, subtract, multiply and inverse matrices made using pure python, with plans for other languages |
+
+## Statistics
+### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=light&include_all_commits=true)
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=granwyntan)
 
 ## Find Me On
 - [Website](https://granwyntan.wixsite.com/granwyntan)
