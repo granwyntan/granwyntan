@@ -1,3 +1,4 @@
+![Granwyn Tan](https://socialify.git.ci/granwyntan/granwyntan?font=Raleway&language=1&owner=1&pattern=Brick%20Wall&theme=Light)
 # Granwyn Tan
 #### Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
  <img src="https://pronouns.vercel.app/he/him/his?gradient=green%20and%20blue" width="256" height="64" alt="My pronouns are he/him/his">
