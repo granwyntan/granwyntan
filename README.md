@@ -1,4 +1,4 @@
-![Granwyn Tan](https://socialify.git.ci/granwyntan/granwyntan/image?font=Raleway&owner=1&pattern=Brick%20Wall&theme=Light)
+![Granwyn Tan](https://socialify.git.ci/granwyntan/granwyntan/image?description=1&descriptionEditable=Student%2C%20Astronomer%2C%20Designer%2C%20Coder.&font=Raleway&pattern=Brick%20Wall&theme=Light)
 
 ![GitHub followers](https://img.shields.io/github/followers/granwyntan?style=flat-square&label=Follow)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
