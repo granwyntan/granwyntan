@@ -47,9 +47,14 @@ Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :sin
 <br>
 
 ## Projects 
-| [Viraze](https://github.com/granwyntan/Viraze) | [Reserva](https://github.com/Pascal-Inc) | [Wishey](https://github.com/swiftaccelerator2020/Wishey) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) |
-| :-: | :-: | :-: | :-: |
-| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | **Reserva** is a Booking app that is currently in Development (Swift, Dart) | **Wishey** is a budgeting app that allows young adults to keep track of their monthly budget, income, expenses and savings. It provides insights on their spendings and allows the user to make responsible and reasonable choices, through pie charts, bar graphs and listing. It also has a wishlist, for users to keep track of gifts and items in which they would like to purchase. Other than the aforementioned features, Wishey also allows users to plan their expenses for spending categories with their income and projected savings in mind. We wanted to develop an app to enable users to create an income-based budget by saving more. We hope this app will be able to help users become more financially prepared and aware. (Swift) | **Matrix Calculator** is a calculator to add, subtract, multiply and inverse matrices made using pure python, with plans for other languages |
+| [Viraze](https://github.com/granwyntan/Viraze) | [Reserva](https://github.com/Pascal-Inc) | [Matrix Calculator](https://github.com/granwyntan/Matrix-Calculator) |
+| :-: | :-: | :-: |
+| **Viraze** is a Haze, Virus and Mask Education app with Quizzes and a friendly User Interface (Swift) | **Reserva** is a Booking app that is currently in Development (Swift, Dart) | **Matrix Calculator** is a calculator to add, subtract, multiply and inverse matrices made using pure python, with plans for other languages |
+
+## Apps 
+| [Wishey](https://github.com/swiftaccelerator2020/Wishey) |
+| :-: |
+| **Wishey** is a budgeting app that allows young adults to keep track of their monthly budget, income, expenses and savings. It provides insights on their spendings and allows the user to make responsible and reasonable choices, through pie charts, bar graphs and listing. It also has a wishlist, for users to keep track of gifts and items in which they would like to purchase. Other than the aforementioned features, Wishey also allows users to plan their expenses for spending categories with their income and projected savings in mind. We wanted to develop an app to enable users to create an income-based budget by saving more. We hope this app will be able to help users become more financially prepared and aware. (Swift) |
 
 ## Statistics
 ### ![Github Stats](https://github-readme-stats.vercel.app/api?username=granwyntan&count_private=true&show_icons=true&theme=light&include_all_commits=true)
