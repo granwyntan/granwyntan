@@ -6,6 +6,7 @@
 
 # Granwyn Tan
 Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
+<br>
 大家好 👋，我是个来自新加坡:singapore:的... 学生、天文学家、设计师、程序设计员
 
 ## About Me
