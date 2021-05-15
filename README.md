@@ -17,7 +17,7 @@ Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :sin
   - **Rust** <img align="center" alt="Rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
   - **C** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
   - **C++** <img align="center" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-  - **C#** <img align="center" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+  - **C#** <img align="center" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
 - :handshake: I’m looking to collaborate on **Website, App or Game Development Projects**
 - :question: I’m looking for help with Mastering **JavaScript**, **HTML** and **CSS** to build a website entirely with it
 - :speech_balloon: Ask me about **Technology**, **Programming**, **App Development**
