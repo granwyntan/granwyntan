@@ -4,8 +4,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/13851406/gran)](https://stackoverflow.com/users/13851406/gran?tab=profile)
 [![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
 
-# Granwyn Tan
-# 陈冠宇
+# Granwyn Tan 陈冠宇
 
 Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
 <br>
