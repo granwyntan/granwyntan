@@ -5,6 +5,8 @@
 [![Medium Badge](https://img.shields.io/badge/-granwyntan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@granwyntan/)](https://medium.com/@granwyntan)
 
 # Granwyn Tan
+# 陈冠宇
+
 Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :singapore:
 <br>
 你好 👋，我是个来自新加坡:singapore:的... 学生、天文学家、设计师、程序设计员
