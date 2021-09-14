@@ -11,9 +11,6 @@ Hi There 👋, I'm a... Student, Astronomer, Designer, Coder from Singapore :sin
 你好 👋，我是个来自新加坡:singapore:的。。。 学生、天文学家、设计师和编码员
 
 ## About Me
-
-<img src="https://pronouns.vercel.app/he/him/his?gradient=green%20and%20blue" width="256" height="64" alt="My pronouns are he/him/his">
-
 <!-- - 🔭 I’m currently working on **Reserva (Flutter)** -->
 - 🌱 I’m currently learning:
   - **Kotlin** <img align="center" alt="Kotlin" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
